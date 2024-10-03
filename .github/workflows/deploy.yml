@@ -1,3 +1,5 @@
+##Deploy the Strapi on ec2 hosts
+
 name: Deploy Strapi to EC2
 
 on:
